@@ -93,6 +93,8 @@ class omniglot_preprocess(object):
 
 		return pairs, targets
 
+	
+
 
 
 

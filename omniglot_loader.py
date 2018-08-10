@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 import argparse
 
 
+#Code adapted from this tutorial https://sorenbouma.github.io/blog/oneshot/
+
 #Parse arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('--path',help='Path to omniglot folder')
